@@ -1,0 +1,20 @@
+package src.pacman.monsters;
+
+import ch.aplu.jgamegrid.Location;
+import src.pacman.Game;
+
+public class TX5 extends Monster {
+
+    public TX5(Game game) {
+        super(game, MonsterType.TX5);
+    }
+
+    public void monsterWalk(double oldDirection, Location next) {
+        if (!isVisited(next) && canMove(next)) {
+            setLocation(next);
+        } else {
+            randomWalk(oldDirection, next);
+        }
+
+    }
+}
