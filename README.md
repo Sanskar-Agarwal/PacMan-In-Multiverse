@@ -1,4 +1,4 @@
-# PACMAN IN MUULTIVERSE
+# PACMAN IN THE MULTIVERSE
 
 Arcade 24™ (A24), the modern game company has stepped in to fill this need with their new game
 design, PacMan in the Multiverse. Instead of having ghosts like a classic PacMan game, A24 wants
