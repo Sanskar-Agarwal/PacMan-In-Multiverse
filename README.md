@@ -1,7 +1,4 @@
-# Team Members
-Sanskar Agarwal (<sanskara@student.unimelb.edu.au>)
-Elise Marcun (<emarcun@student.unimelb.edu.au>)
-Lara Stebbens (<lstebbens@student.unimelb.edu.au>)
+# PACMAN IN MUULTIVERSE
 
 Arcade 24™ (A24), the modern game company has stepped in to fill this need with their new game
 design, PacMan in the Multiverse. Instead of having ghosts like a classic PacMan game, A24 wants
@@ -65,8 +62,13 @@ seconds. Then, they will be back to move normally using their own walking approa
 3d.2. While the monsters are frozen, PacMan can eat a gold piece without making the monsters
 furious.
 
-# NOTE: A24 acknowledges that the descriptions of the new features above may not cover all the possible
-# cases of the game logic. As long as the described logics is in place, A24 is open to your ideas to handle
-# the corner cases that are not covered by the provided use cases.
+# Team Members
+- Sanskar Agarwal (<sanskara@student.unimelb.edu.au>)
+- Elise Marcun (<emarcun@student.unimelb.edu.au>)
+- Lara Stebbens (<lstebbens@student.unimelb.edu.au>)
+
+NOTE: A24 acknowledges that the descriptions of the new features above may not cover all the possible
+cases of the game logic. As long as the described logics is in place, A24 is open to your ideas to handle
+the corner cases that are not covered by the provided use cases.
 
 
