@@ -13,7 +13,7 @@ public abstract class Monster extends Actor {
   private final int listLength = 10;
   private boolean stopMoving = false;
   private boolean isFurious = false;
-  private int seed;
+  private int seed = 0;
   private Random randomiser = new Random(0);
 
   public Monster(Game game, MonsterType type)
