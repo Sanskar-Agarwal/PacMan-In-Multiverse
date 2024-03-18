@@ -1,6 +1,6 @@
 <h1> PacMan-In-Multiverse</h1>
 
-<p>In this project, I have refactored existing codebase given by Arcade 24™ (A24). Who had made a simple version of PacMan Game to an extension: <b>PacMan-In-Multiverse</b></p>
+<p>In this project, I along with Elise Marcun, have refactored existing codebase given by Arcade 24™ (A24). Who had made a simple version of PacMan Game to an extension: <b>PacMan-In-Multiverse</b></p>
 
 <img width="591" alt="image" src="https://github.com/Sanskar-Agarwal/PacMan-In-Multiverse/assets/86827884/98a78c63-536d-43af-a1c3-10da2a90de61">
 
@@ -69,6 +69,7 @@ feel free to edit modes or locations of pacman or the monsters in any of these m
   
   On IntelliJ -> Open Projects -> 'PacMan-In-Multiverse' -> 'Game' -> 'pacman' -> Open 
 
+
   You will need to set up an SDK for your project. Right click on your project, and select Open Module Settings. In module settings we need to choose our sdk, I have used 'openjdk16'
 
 
@@ -82,14 +83,24 @@ feel free to edit modes or locations of pacman or the monsters in any of these m
 <br>
 
 <b>Associated JGameGrid Library can be accessed <a href="https://www.aplu.ch/home/apluhomex.jsp?site=45" target="_blank">JGameGrid</a> with further reading on classes and their framework on <a href="https://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/package-summary.html" target="_blank">Javadoc</a></b>
-
 <br>
 <br>
 
-To access the Report as well as Domain,Static and Dynamic models head to 'PacMan-In-Multiverse' -> 'Game' -> 'documentation'
+<h3>Documentation</h3>
+
+To access the Report as well as Domain,Static and Dynamic models head to:
+  
+'PacMan-In-Multiverse' -> 'Game' -> 'documentation'
 
 </p>
 
+<h2>Contact</h2>
+
+<p>
+  For any queries or suggestion feel free to contact
+  Sanskar Agarwal - sanskara@student.unimelb.edu.au
+  Elise Marcun - emarcon@student.unimelb.edu.au
+</p>
 
 
 
