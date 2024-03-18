@@ -1,25 +1,99 @@
-[Wizard] Location: 11-8
+[Wizard] Location: 12-8
 [Orion] Location: 7-1
 [Troll] Location: 11-5
-[Alien] Location: 7-3
+[Alien] Location: 6-3
 [PacMan] Location: 5-7. Score: 0. Pills: 0
-[Wizard] Location: 10-9
-[Orion] Location: 8-1
+[Wizard] Location: 12-9
+[Orion] Location: 6-2
 [Troll] Location: 10-5
 [Alien] Location: 6-4
 [PacMan] Location: 5-7. Score: 0. Pills: 0
-[Wizard] Location: 9-8
-[Orion] Location: 9-1
+[Wizard] Location: 11-9
+[Orion] Location: 5-3
 [Troll] Location: 9-5
 [Alien] Location: 5-5
 [PacMan] Location: 5-7. Score: 0. Pills: 0
-[Wizard] Location: 8-7
-[Orion] Location: 10-1
+[PacMan] Location: 7-7. Eat Pill/Item: pills
+[PacMan] Location: 7-7. Eat Pill/Item: pills
+[Wizard] Location: 10-8
+[Orion] Location: 6-4
 [Troll] Location: 8-5
-[Alien] Location: 6-6
-[PacMan] Location: 5-7. Score: 0. Pills: 0
-[Wizard] Location: 8-6
-[Orion] Location: 11-1
+[Alien] Location: 4-5
+[PacMan] Location: 3-7. Score: 2. Pills: 2
+[Wizard] Location: 9-7
+[Orion] Location: 6-5
 [Troll] Location: 9-5
+[Alien] Location: 3-6
+[PacMan] Location: 3-7. Score: 2. Pills: 2
+[PacMan] Location: 7-7. Eat Pill/Item: pills
+[PacMan] Location: 7-7. Eat Pill/Item: pills
+[PacMan] Location: 8-8. Eat Pill/Item: pills
+[Wizard] Location: 8-8
+[Orion] Location: 6-6
+[Troll] Location: 10-5
+[Alien] Location: 4-7
+[PacMan] Location: 6-8. Score: 5. Pills: 5
+[PacMan] Location: 9-9. Eat Pill/Item: pills
+[PacMan] Location: 9-9. Eat Pill/Item: pills
+[PacMan] Location: 9-9. Eat Pill/Item: pills
+[Wizard] Location: 7-9
+[Orion] Location: 5-7
+[Troll] Location: 11-5
 [Alien] Location: 5-7
-[PacMan] Location: 5-7. Score: 0. Pills: 0
+[PacMan] Location: 8-9. Score: 8. Pills: 8
+[Wizard] Location: 8-8
+[Orion] Location: 4-8
+[Troll] Location: 10-5
+[Alien] Location: 6-8
+[PacMan] Location: 9-9. Score: 9. Pills: 9
+[PacMan] Location: 9-9. Eat Pill/Item: pills
+[PacMan] Location: 9-9. Eat Pill/Item: gold
+[Wizard] Location: 9-7
+[Orion] Location: 4-9
+[Troll] Location: 10-4
+[Alien] Location: 7-9
+[PacMan] Location: 10-9. Score: 14. Pills: 10
+[PacMan] Location: 9-9. Eat Pill/Item: pills
+[PacMan] Location: 9-9. Eat Pill/Item: pills
+[Wizard] Location: 10-6
+[Orion] Location: 3-9
+[Troll] Location: 10-3
+[Alien] Location: 8-9
+[PacMan] Location: 12-9. Score: 16. Pills: 12
+[PacMan] Location: 9-9. Eat Pill/Item: pills
+[PacMan] Location: 8-8. Eat Pill/Item: pills
+[PacMan] Location: 7-7. Eat Pill/Item: pills
+[PacMan] Location: 6-6. Eat Pill/Item: pills
+[Wizard] Location: 11-5
+[Orion] Location: 2-9
+[Troll] Location: 11-3
+[Alien] Location: 9-9
+[PacMan] Location: 13-6. Score: 20. Pills: 16
+[Wizard] Location: 10-5
+[Orion] Location: 1-8
+[Troll] Location: 12-3
+[Alien] Location: 10-9
+[PacMan] Location: 13-6. Score: 20. Pills: 16
+[PacMan] Location: 5-5. Eat Pill/Item: pills
+[PacMan] Location: 4-4. Eat Pill/Item: pills
+[Wizard] Location: 9-5
+[Orion] Location: 1-7
+[Troll] Location: 13-3
+[Alien] Location: 11-9
+[PacMan] Location: 13-4. Score: 22. Pills: 18
+[Wizard] Location: 10-6
+[Orion] Location: 1-6
+[Troll] Location: 13-2
+[Alien] Location: 12-9
+[PacMan] Location: 13-4. Score: 22. Pills: 18
+[Wizard] Location: 11-7
+[Orion] Location: 2-5
+[Troll] Location: 13-1
+[Alien] Location: 13-8
+[PacMan] Location: 13-5. Score: 22. Pills: 18
+[Wizard] Location: 12-8
+[Orion] Location: 1-4
+[Troll] Location: 12-1
+[Alien] Location: 12-7
+[PacMan] Location: 13-8. Score: 22. Pills: 18
+GAME OVER
