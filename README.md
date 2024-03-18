@@ -67,7 +67,7 @@ feel free to edit modes or locations of pacman or the monsters in any of these m
   
   I have built this project on IntelliJ IDEA CE and have used 'openjdk16', however the code should run without using an integrated development environment (IDE) as well.
   
-  On IntelliJ -> Open Projects -> 'PacMan-In-Multiverse' -> 'PacMan Game' -> Open 
+  On IntelliJ -> Open Projects -> 'PacMan-In-Multiverse' -> 'Game' -> 'pacman' -> Open 
 
   You will need to set up an SDK for your project. Right click on your project, and select Open Module Settings. In module settings we need to choose our sdk, I have used 'openjdk16'
 
@@ -86,7 +86,7 @@ feel free to edit modes or locations of pacman or the monsters in any of these m
 <br>
 <br>
 
-To access the Report as well as Domain,Static and Dynamic models head to 'PacMan-In-Multiverse' -> 'PacMan Game' -> 'documentation'
+To access the Report as well as Domain,Static and Dynamic models head to 'PacMan-In-Multiverse' -> 'Game' -> 'documentation'
 
 </p>
 
