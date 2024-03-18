@@ -1,0 +1,25 @@
+[Wizard] Location: 11-8
+[Orion] Location: 7-1
+[Troll] Location: 11-5
+[Alien] Location: 7-3
+[PacMan] Location: 5-7. Score: 0. Pills: 0
+[Wizard] Location: 10-9
+[Orion] Location: 8-1
+[Troll] Location: 10-5
+[Alien] Location: 6-4
+[PacMan] Location: 5-7. Score: 0. Pills: 0
+[Wizard] Location: 9-8
+[Orion] Location: 9-1
+[Troll] Location: 9-5
+[Alien] Location: 5-5
+[PacMan] Location: 5-7. Score: 0. Pills: 0
+[Wizard] Location: 8-7
+[Orion] Location: 10-1
+[Troll] Location: 8-5
+[Alien] Location: 6-6
+[PacMan] Location: 5-7. Score: 0. Pills: 0
+[Wizard] Location: 8-6
+[Orion] Location: 11-1
+[Troll] Location: 9-5
+[Alien] Location: 5-7
+[PacMan] Location: 5-7. Score: 0. Pills: 0
