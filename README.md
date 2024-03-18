@@ -31,7 +31,7 @@ determine the moving direction once based on their walking approach and move tow
 direction for 2 cells if they can. Otherwise, determining the new direction again using their own
 walking approach until it can move by 2 cells. After 3 seconds, all the monsters will be back to move
 normally using their own walking approach.</li>
-<li><b>Freeze:</b> Regardless of being normal or furious, all the monsters are frozen (i.e., stop moving) for 3
+<li><b>Frozen Mode:</b> Regardless of being normal or furious, all the monsters are frozen (i.e., stop moving) for 3
 seconds. Then, they will be back to move normally using their own walking approach.While the monsters are frozen, PacMan can eat a gold piece without making the monsters
 furious.</li>
 
@@ -82,6 +82,11 @@ feel free to edit modes or locations of pacman or the monsters in any of these m
 <br>
 
 <b>Associated JGameGrid Library can be accessed <a href="https://www.aplu.ch/home/apluhomex.jsp?site=45" target="_blank">JGameGrid</a> with further reading on classes and their framework on <a href="https://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/package-summary.html" target="_blank">Javadoc</a></b>
+
+<br>
+<br>
+
+To access the Report as well as Domain,Static and Dynamic models head to 'PacMan-In-Multiverse' -> 'PacMan Game' -> 'documentation'
 
 </p>
 
