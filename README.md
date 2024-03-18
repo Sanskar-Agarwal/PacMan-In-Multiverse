@@ -35,6 +35,32 @@ normally using their own walking approach.</li>
 seconds. Then, they will be back to move normally using their own walking approach.While the monsters are frozen, PacMan can eat a gold piece without making the monsters
 furious.</li>
 
+<h3>Switching Modes and Versions</h3>
+
+<p>The game can be switched between 'simple' and 'multiverse' modes as well as 'autoplayer' and 'manual modes', this can be done by feeding it different test files in the 'src.Driver.main()' class
+
+For your convenience 5 test files have been provided which have different configurations of player as well as game modes:
+
+<li><b>test1.propperties</b> is an example of configuration for the original with version ='simple' and PacMan.isAuto='False'
+<li><b>test2.properties</b> and <b>test3.properties</b> are provided to automatically and manually move PacMan in the multiverse</li>
+<li><b>test4.properties</b> and <b>test5.properties</b> are test files to test border cases</li>
+<br>
+<b>Note: Test file values may be changed and saved without updating the ReadME. Please treat the above examples as intended usage of the test files and not as final. Please inspect the test files yourself to understand their behavior</b>
+
+<br>
+
+feel free to edit modes or locations of pacman or the monsters in any of these modes.
+
+
+
+<img width="466" alt="image" src="https://github.com/Sanskar-Agarwal/PacMan-In-Multiverse/assets/86827884/59c21898-7a8a-4530-bb5d-0cb203aa5a4e">
+
+
+<img width="443" alt="image" src="https://github.com/Sanskar-Agarwal/PacMan-In-Multiverse/assets/86827884/19065f8c-2870-4459-af1f-eafaa697b97a">
+
+
+</p>
+
 <h2>Running the codebase and further instructions</h2>
 
 <p>The main entry point to run this code is <b>"src.Driver.main()"</b>
@@ -51,7 +77,11 @@ furious.</li>
 
 <img width="1026" alt="image" src="https://github.com/Sanskar-Agarwal/PacMan-In-Multiverse/assets/86827884/7ba2fa2e-2167-454c-b6ea-3017f153b1b1">
 
-Associated JGameGrid Library can be accessed <a href="https://www.aplu.ch/home/apluhomex.jsp?site=45" target="_blank">JGameGrid</a> with further reading on classes and their framework on <a href="https://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/package-summary.html" target="_blank">Javadoc</a>
+<br>
+<br>
+<br>
+
+<b>Associated JGameGrid Library can be accessed <a href="https://www.aplu.ch/home/apluhomex.jsp?site=45" target="_blank">JGameGrid</a> with further reading on classes and their framework on <a href="https://www.aplu.ch/classdoc/jgamegrid/ch/aplu/jgamegrid/package-summary.html" target="_blank">Javadoc</a></b>
 
 </p>
 
