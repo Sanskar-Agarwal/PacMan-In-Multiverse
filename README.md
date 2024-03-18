@@ -97,8 +97,10 @@ To access the Report as well as Domain,Static and Dynamic models head to:
 <h2>Contact</h2>
 
 <p>
-  For any queries or suggestion feel free to contact
+  For any queries or suggestion feel free to contact:
+  <br>
   Sanskar Agarwal - sanskara@student.unimelb.edu.au
+  <br>
   Elise Marcun - emarcon@student.unimelb.edu.au
 </p>
 
